@@ -1,0 +1,468 @@
+,Unnamed: 0,Company Name,Ticker
+0,0,3M Company,U_MMM
+1,1,ABB,U_ABBNVX
+2,2,AT&T Inc,U_T
+3,3,AbbVie,U_ABBV
+4,4,Abbott Laboratories,U_ABT
+5,6,Activision Blizzard,U_ATVI
+6,7,Acuity Brands,U_AYI
+7,8,Adobe Systems,U_ADBE
+8,9,Advance Auto Parts,U_AAP
+9,10,Agilent Technologies,U_A
+10,11,Agree Realty,U_ADC
+11,12,Air Products & Chemicals,U_APD
+12,13,Airbus,U_AIRFP
+13,14,Albemarle Corp,U_ALB
+14,15,Albemarle,U_ALB
+15,16,Alcon,U_ALCSW
+16,17,Alexandria Real Estate Equities Inc.,U_ARE
+17,18,Alibaba Group Holding Ltd,U_BABA
+18,19,Allegion,U_ALLLBZ
+19,20,Alliant Energy,U_LNT
+20,21,Altria Group Inc.,U_MO
+21,22,Amazon,U_AMZN
+22,23,Amdocs Limited,U_DOX
+23,24,Ameren Corporation,U_AEE
+24,25,American Airlines Group,U_AAL
+25,27,American Campus Communities,U_ACC
+26,28,American Electric Power,U_AEP
+27,30,American Homes 4 Rent,U_AMH
+28,31,American Tower,U_AMT
+29,32,American Water Works,U_AWK
+30,33,AmerisourceBergen,U_ABC
+31,34,Amgen,U_AMGN
+32,35,Amphenol,U_APH
+33,36,Analog Devices,U_ADI
+34,37,AngloGold Ashanti,U_ANGSJ
+35,38,Anheuser-Busch InBev NV,U_BUD
+36,39,Anthem,U_ANTM
+37,41,Apache,U_APA
+38,42,Apple,U_AAPL
+39,43,Applied Materials,U_AMAT
+40,44,Aptiv Plc,U_APTV
+41,45,Archer Daniels Midland,U_ADM
+42,46,Arrow Electronics Inc.,U_ARW
+43,47,Ashland Inc.,U_ASH
+44,48,Ashtead Capital Incorporated,U_AHTLN
+45,49,AstraZeneca Plc,U_AZN
+46,50,Atmos Energy Corporation,U_ATO
+47,51,AutoNation Inc.,U_AN
+48,52,AutoZone,U_AZO
+49,53,Autodesk,U_ADSK
+50,54,Automatic Data Processing,U_ADP
+51,55,AvalonBay Communities,U_AVB
+52,56,Avery Dennison,U_AVY
+53,57,Avnet,U_AVT
+54,58,BASF AG,U_BASGR
+55,59,BED Bath & Beyond,U_BBBY
+56,60,BGC Partners Inc.,U_BGCP
+57,61,BHP Group Ltd.,U_BHP
+58,62,BP,U_BPLN
+59,63,Baker Hughes Company,U_BHI
+60,66,Barry Callebaut AG R,U_BARY
+61,67,Baxter International Inc.,U_BAX
+62,68,Bayerische Motoren Werke,U_BMW
+63,69,"Becton, Dickinson",U_BDX
+64,71,Best Buy,U_BBY
+65,72,Biogen,U_BIIB
+66,73,Black Hills,U_BKH
+67,75,Boeing,U_BA
+68,76,Booking Holdings Inc,U_PCLN
+69,77,Boral Limited,U_BLDAU
+70,78,BorgWarner Inc.,U_BWA
+71,79,Boston Properties,U_BXP
+72,80,Boston Scientific Corporation,U_BSX
+73,81,Brandywine Realty Trust,U_BDN
+74,82,Bristol-Myers Squibb,U_BMY
+75,83,British American Tobacco,U_BATSLN
+76,84,British Telecommunications plc,U_BRITEL
+77,85,Brixmor Property Group,U_BRX
+78,86,Broadcom Ltd,U_AVGO
+79,87,Broadridge Financial Solutions,U_BR
+80,88,Brown-Forman (B Shares),U_BFB
+81,89,Bunge,U_BG
+82,90,CBRE Services Inc,U_CBG
+83,91,CF Industries Inc.,U_CF
+84,92,CH Robinson Worldwide,U_CHRW
+85,93,CNH Industrial Capital LLC,U_CNHI
+86,94,CRH America Inc.,U_CRHID
+87,95,CSX Corporation,U_CSX
+88,96,CVS Health Corp,U_CVS
+89,97,Cabot Corporation,U_CBT
+90,98,Cadence Design Systems,U_CDNS
+91,99,Camden Property Trust,U_CPT
+92,100,Campbell Soup Company,U_CPB
+93,101,Canadian National Railway Company,U_CNRCN
+94,102,Canadian Natural Resources Limited,U_CNQCN
+95,103,Canadian Pacific Railway Company,U_CP
+96,105,Cardinal Health,U_CAH
+97,106,Carlisle Companies Incorporated,U_CSL
+98,107,Carrier Global Corporation,U_CARR
+99,108,Caterpillar,U_CAT
+100,109,Celanese,U_CE
+101,110,Cenovus Energy Inc,U_CVECN
+102,111,CenterPoint Energy Resources Corp.,U_CNP
+103,112,Charter Communications,U_CHTROLD
+104,113,Chevron,U_CVX
+105,114,Choice Hotels International,U_CHH
+106,115,Church & Dwight Co. Inc.,U_CHD
+107,116,Cigna Corporation,U_CI
+108,117,Cimarex Energy Corporation,U_XEC
+109,118,Cintas Corporation,U_CTAS
+110,119,Cisco Systems Inc.,U_CSCO
+111,121,Citrix Systems Inc.,U_CTXS
+112,122,Coca-Cola Consolidated Inc,U_KO
+113,123,Colgate-Palmolive Company,U_CL
+114,124,Comcast Corporation,U_CMCSA
+115,125,Conagra Brands Inc,U_CAG
+116,126,ConocoPhillips Company,U_COP
+117,127,Consolidated Edison,U_ED
+118,128,Constellation Brands Inc.,U_STZ
+119,129,Consumers Energy Company,U_CMS
+120,130,Continental Resources Inc.,U_CLR
+121,131,Corning Incorporated,U_GLW
+122,132,Costar Group Inc,U_CSGP
+123,133,Costco Wholesale Corporation,U_COST
+124,134,Crane Co.,U_CR
+125,136,Crown Castle International,U_CCI
+126,137,CubeSmart L.P.,U_CUBE
+127,138,Cummins Inc.,U_CMI
+128,139,Cyrus One,U_CONE
+129,140,D.R. Horton Inc.,U_DHI
+130,141,DCP Midstream Operating LP,U_DCPMID
+131,142,DTE Energy Company,U_DTE
+132,143,DXC Technology Company,U_DXC
+133,144,Danaher Corporation,U_DHR
+134,145,Danone SA,U_BNFP
+135,146,Darden Restaurants Inc.,U_DRI
+136,147,Deere & Company,U_DE
+138,149,Delta Airlines Inc.,U_DAL
+139,150,Dentsply Sirona,U_XRAY
+140,151,Deutsche Telekom AG,U_DT
+141,152,Devon Energy Corporation,U_DVN
+142,153,Diageo,U_DGELN
+143,154,Diamondback Energy Inc,U_FANG
+144,155,Digital Realty Trust L.P.,U_DLR
+145,156,Dollar General Corporation,U_DG
+146,157,Dollar Tree Inc,U_DLTR
+147,158,Dominion Energy Inc,U_D
+148,160,Dover Corporation,U_DOV
+149,161,Duke Energy Corp,U_DUK
+150,162,Duke Realty Limited Partnership,U_DRE
+151,163,Dupont De Nemours Inc,U_DD
+153,165,ENI SpA,U_ENIIM
+154,166,EOG Resources Inc.,U_EOG
+155,167,Eagle Materials,U_EXP
+156,168,Eastman Chemical Company,U_EMN
+157,169,Eaton Corporation,U_ETN
+158,170,Ecolab,U_ECL
+159,171,Edison International,U_EIX
+160,172,Edwards Lifesciences Corporation,U_EW
+161,173,Electronic Arts,U_EA
+162,174,Eli Lilly and Company,U_LLY
+163,175,Emerson Electric,U_EMR
+164,176,Enable Midstream Partners LP,U_ENBL
+165,177,Energy Transfer Operating L P,U_ETE
+166,178,Enlink Midstream Partners LP,U_ENLK
+167,179,Entergy Corporation,U_ETR
+168,180,Enterprise Products Operating LP,U_EPD
+169,181,Equifax Inc.,U_EFX
+170,182,Equinix Inc,U_EQIX
+171,183,Equinor ASA,U_STLNO
+172,184,Equitrans Midstream Corporation,U_EQM
+173,185,Equity Residential,U_EQR
+174,186,Essex Property Trust,U_ESS
+175,187,Evergy Inc,U_WR
+176,188,Eversource Energy,U_NST
+177,189,Exelon Corporation,U_EXC
+178,190,Expedia Group Inc,U_EXPE
+179,191,ExxonMobil,U_XOM
+180,192,FMC Corporation,U_FMC
+181,194,FedEx Corporation,U_FDX
+182,195,FiServ Inc.,U_FISV
+183,196,Fidelity National Information Services Inc,U_FIS
+184,197,Flex Limited,U_FLEX
+185,198,Flowers Foods,U_FLO
+186,199,Flowserve Corporation,U_FLS
+187,200,Fluor Corporation,U_FLR
+188,201,Ford Motor Company,U_F
+189,202,Fortis Inc,U_FTSCN
+190,203,Fortive Corporation,U_FTV
+191,204,Fortune Brands Home & Security Inc,U_BEAM
+192,205,Fox Corporation,U_FOXA
+193,206,Freeport-McMoran Inc,U_FCX
+194,207,Fresenius Medical Care,U_FMEGR
+195,208,Gap Inc.,U_GPS
+196,209,General Dynamics Corporation,U_GD
+197,210,General Electric,U_GE
+198,211,General Mills Inc.,U_GIS
+199,212,General Motors,U_GM
+200,214,Gilead Sciences Inc.,U_GILD
+201,215,Global Payments,U_GPN
+202,217,Google,U_GOOG
+203,218,Grainger W W Inc,U_GWW
+204,219,H&R Block,U_HRB
+205,220,Halliburton Company,U_HAL
+206,221,Harley-Davidson,U_HOG
+207,222,Hasbro Inc,U_HAS
+208,223,Healthcare Realty Trust Incorporated,U_HR
+209,224,Healthcare Trust of America,U_HTA
+210,225,Healthpeak Properties Inc,U_HCP
+211,226,Heineken N.V.,U_HEIANA
+212,227,Helmerich & Payne Inc,U_HP
+213,228,Hess Corporation,U_HES
+214,229,Hewlett Packard Enterprise Company,U_HPQ
+215,230,Hexcel Corporation,U_HXL
+216,231,Highwoods Realty Limited Partnership,U_HIW
+217,232,HollyFrontier Corporation,U_HFC
+218,233,Honda Motor,U_HNDA
+219,234,Honeywell International Inc,U_HON
+220,235,Hormel Foods Corp,U_HRL
+221,236,Host Hotels & Resorts,U_HST
+222,237,Howmet Aerospace Inc,U_AA
+223,238,Hubbell Incorporated,U_HUBB
+224,239,Hudson Pacific Properties LP,U_HPP
+225,240,Humana Inc.,U_HUM
+226,241,Huntington Ingalls Industries Inc,U_HII
+227,242,Huntsman International LLC,U_HUN
+228,243,Hyatt Hotels Corporation,U_H
+229,244,IBM,U_IBM
+230,245,ICL Group Ltd,U_ICLIT
+231,246,IHS Markit Ltd,U_INFO
+233,248,Idex Corporation,U_IEX
+234,249,Illinois Tool Works Inc.,U_ITW
+235,250,Ingersoll Rand,U_IR
+236,251,Ingredion Incorporated,U_INGR
+237,252,Intel Corporation,U_INTC
+238,253,International Flavors & Fragrances Inc,U_IFF
+239,254,International Paper Company,U_IP
+240,255,Intuit Inc,U_INTU
+241,256,J. B. Hunt Transport Services Inc.,U_JBHT
+242,257,J.M. Smucker Company,U_SJM
+243,259,JD.com,U_JD
+244,260,Jabil Inc,U_JBL
+246,262,Johnson & Johnson,U_JNJ
+247,263,Johnson Controls,U_JCI
+248,264,Juniper Networks,U_JNPR
+249,265,KLA Corporation,U_KLAC
+250,266,Kansas City Southern,U_KSU
+251,267,Kellogg Company,U_K
+252,268,Keurig Dr Pepper Inc,U_DPS
+253,269,Keysight Technologies Inc,U_KEYS
+254,270,Kilroy Realty L.P.,U_KRC
+255,271,Kimberly-Clark Corporation,U_KMB
+256,272,Kimco Realty Corporation,U_KIM
+257,273,Kinder Morgan Inc,U_KMI
+258,274,Kinross Gold Corporation,U_KCN
+259,275,Kirby Corp,U_KEX
+260,276,Kohls Corporation,U_KSS
+261,277,Kraft Heinz Foods Company,U_KHC
+262,279,L3 Harris Technologies Inc,U_LHX
+263,280,Laboratory Corp of America Holdings,U_LH
+264,281,Lam Research Corporation,U_LRCX
+265,282,Las Vegas Sands Corp,U_LVS
+266,283,Leggett & Platt Inc,U_LEG
+267,284,Leidos Inc,U_LDOS
+268,285,Lennar Corporation,U_LEN
+269,286,Lennox International Inc,U_LII
+270,287,Lexington Realty Trust,U_LXP
+271,288,Life Storage LP,U_LSI
+272,289,Linde Plc,U_LINGR
+273,290,Lockheed Martin Corporation,U_LMT
+274,291,Lowes Companies Inc,U_LOW
+275,292,Lumen Technologies Inc,U_CTL
+276,293,LyondellBasell,U_LYB
+277,294,MDC Holdings,U_MDC
+278,295,MPLX LP,U_MPLX
+279,296,Macys,U_M
+280,297,Magellan Midstream Partners LP,U_MMP
+281,298,Main Street Capital Corporation,U_MAIN
+282,300,Marathon Oil Corporation,U_MRO
+283,301,Marathon Petroleum Company,U_MPC
+284,302,Marriott International,U_MAR
+285,303,Martin Marietta Materials,U_MLM
+286,304,Marvell Technology Group Ltd,U_MRVL
+287,305,Masco Corporation,U_MAS
+288,306,MasterCard Incorporated,U_MA
+289,307,Maxim Integrated Products Inc,U_MXIM
+290,308,McCormick & Company Incorporated,U_MKC
+291,309,McDonald's Corporation,U_MCD
+292,310,McKesson Corporation,U_MCK
+293,311,Medtronic Inc,U_MDT
+294,312,Merck & Co. Inc,U_MRKGR
+295,313,Micron Technology Inc,U_MU
+296,314,Microsoft Corporation,U_MSFT
+297,315,Mid-America Apartments L.P.,U_MAA
+298,317,Mohawk Industries Inc,U_MHK
+299,318,Molson Coors Beverage Company,U_TAP
+300,319,Mondelez International Inc,U_MDLZ
+301,320,Moodys Corp,U_MCO
+302,322,Motorola Solutions Inc,U_MSI
+303,323,Murphy Oil Corporation,U_MUR
+304,324,NVR Inc,U_NVR
+305,325,NXP Semiconductors,U_NXPI
+307,327,National Fuel Gas Company,U_NFG
+308,329,National Oilwell Varco,U_NOV
+309,330,National Retail Properties Inc.,U_NNN
+310,331,Nestle Holdings Inc.,U_NESNVX
+311,332,NetApp Inc.,U_NTAP
+312,333,Netflix,U_NFLX
+313,334,Newell Brands Inc.,U_NWL
+314,335,Newmarket Corporation,U_NEU
+315,336,Newmont Corporation,U_NEM
+316,337,NextEra Energy,U_NEE
+317,338,NiSource Inc,U_NI
+318,339,Nike Inc,U_NKE
+319,341,Nissan Motor Co Ltd,U_NSANY
+320,342,Nokia Corp,U_NOKIA
+321,343,Nordstrom Inc.,U_JWN
+322,344,Norfolk Southern Corporation,U_NSC
+323,345,Northrop Grumman Corporation,U_NOC
+324,346,Novartis Capital Corporation,U_NOVNVX
+325,347,Nucor Corporation,U_NUE
+326,348,Nvidia Corp,U_NVDA
+327,349,ONE Gas Inc.,U_OGS
+328,350,OReilly Automotive Inc,U_ORLY
+329,351,Occidental Petroleum Corporation,U_OXY
+330,352,Oklahoma Gas and Electric Company,U_OGE
+331,353,Omega Healthcare Investors Inc.,U_OHI
+332,354,Omnicom Group,U_OMC
+333,355,Oneok Inc.,U_OKE
+334,356,Oracle Corporation,U_ORCL
+335,357,Orange S.A.,U_ORAFP
+336,358,Otis Worldwide Corporation,U_OTIS
+337,359,Ovintiv Inc,U_ECACN
+338,360,Owens Corning,U_OC
+339,361,PPG Industries Inc.,U_PPG
+340,362,PPL,U_PPL
+341,363,PVH Corporation,U_PVH
+342,364,Paccar,U_PCAR
+343,365,Pacific Gas and Electric Company,U_PCG
+344,366,Packaging Corporation of America,U_PKG
+345,367,Panasonic Corp,U_MATSEL
+346,368,Parker-Hannifin Corporation,U_PH
+347,369,Patterson Uti Eneg,U_PTEN
+348,370,Paypal Holdings,U_PYPL
+349,371,Pentair,U_PNR
+350,372,Pepsico Inc,U_PEP
+351,373,Perkinelmer Inc.,U_PKI
+352,374,Perrigo,U_PRGO
+353,375,Pfizer Inc.,U_PFE
+354,376,Philip Morris International Inc.,U_PM
+355,377,Phillips 66,U_PSX
+356,378,Physicians Realty LP,U_DOC
+357,379,Pinnacle West Capital,U_PNW
+358,380,Pioneer Natural Resources Company,U_PXD
+359,381,Plains All American Pipeline,U_PXP
+360,382,Prologis L.P.,U_PLD
+362,384,Public Service Enterprise Group Incorporated,U_PNM
+363,385,Public Storage,U_PSA
+364,386,Pulte Group Inc,U_PHM
+365,387,QUALCOMM Incorporated,U_QCOM
+366,389,Quest Diagnostics Incorporated,U_DGX
+367,390,RALPH LAUREN CORPORATION,U_RL
+368,391,RPM International Inc.,U_RPM
+369,392,Raytheon Technologies Corporation,U_RTN
+370,393,Realty Income Corporation,U_O
+371,394,Regency Centers L.P.,U_REG
+372,395,Regeneron Pharmaceuticals Inc.,U_REGN
+373,396,Reliance Steel & Aluminum Co.,U_RS
+374,397,Republic Services Inc.,U_RSG
+375,398,Retail Properties of America Inc.,U_RPAI
+376,400,Roche Holdings Inc.,U_ROSW
+377,401,Rogers Communications Inc.,U_RCICN
+378,402,Roper Technologies Inc,U_ROP
+379,403,Ross Stores Inc,U_ROST
+380,405,Ryder System Inc.,U_R
+381,406,S&P GLOBAL INC,U_MHFI
+382,407,SL Green Realty,U_SLG
+383,408,STORE Capital Corp,U_STOR
+384,409,Sabra Healthcare REIT,U_SBRA
+385,410,Salesforce.com Inc.,U_CRM
+386,411,Sanofi,U_SANFP
+387,412,Schlumberger,U_SLB
+388,413,Seagate Technology,U_STX
+389,414,Sempra Energy,U_SRE
+390,415,Servicenow Inc,U_NOW
+391,416,Simon Property Group L.P.,U_SPG
+393,419,Sociedad Quimica y Minera de Chile S A,U_SQM
+394,420,Solvay Finance America LLC,U_SOLBBB
+395,421,Southern Company,U_SO
+396,422,Southern Copper Corporation,U_SCCO
+397,423,Southwest Airlines Co,U_LUV
+398,424,Spirit Realty LP,U_SRC
+399,425,Stanley Black & Decker Inc.,U_SWK
+400,426,Starbucks Corporation,U_SBUX
+401,427,Steel Dynamics Inc.,U_STLD
+402,428,Steelcase Inc,U_SCS
+403,429,Stryker Corporation,U_SYK
+404,430,Sysco Corporation,U_SYY
+405,431,T-Mobile USA Inc.,U_TMUS
+406,432,TC Pipelines LP,U_TCP
+407,433,TE Connectivity,U_TEL
+408,434,Tapestry Inc,U_COH
+409,435,Target Corporation,U_TGT
+411,437,Telefonaktiebolaget LM Ericsson (publ),U_ERICB
+412,438,Tesla,U_TSLA
+413,439,Teva Pharmaceutaical Industries,U_TEVA
+414,440,Texas Instruments Incorporated,U_TXN
+415,441,Textron Inc.,U_TXT
+416,442,The Clorox Company,U_CLX
+417,443,The Dow Chemical Company,U_DOW
+418,444,The Estee Lauder Companies Inc.,U_EL
+419,445,The Hershey Company,U_HSY
+420,446,The Home Depot Inc.,U_HD
+421,447,The Interpublic Group of Companies Inc,U_IPG
+422,448,The Kroger Co.,U_KR
+423,449,The Mosaic Company,U_MOS
+424,450,The Procter & Gamble Company,U_PG
+425,451,The Sherwin-Williams Company,U_SHW
+426,452,The TJX Companies Inc.,U_TJX
+427,453,The Timken Company,U_TKR
+428,454,The Western Union Company,U_WU
+429,455,Thermo Fisher Scientific Inc,U_TMO
+430,456,Thomson Reuters Corp.,U_TRICN
+431,458,Transocean Inc.,U_RIG
+432,459,Trimble Inc,U_TRMB
+433,460,Tyson Foods Inc.,U_TSN
+434,461,UDR Inc,U_UDR
+435,462,Uber Technologies,U_UBER
+436,463,Union Pacific Corporation,U_UNP
+437,464,United Airlines Holdings,U_UAL
+438,465,United Parcel Service Inc.,U_UPS
+439,466,United States Steel Corporation,U_X
+440,467,UnitedHealth Group,U_UNH
+441,468,Universal Health Services Inc.,U_UHS
+442,469,V.F. Corporation,U_VFC
+443,471,VMware Inc,U_VMW
+444,472,Valero Energy Corporation,U_VLO
+445,473,Valmont Industries Inc.,U_VMI
+446,474,Ventas,U_VTR
+447,475,Verisk Analytics Inc.,U_VRSK
+448,476,Verizon Communications Inc.,U_VZ
+449,477,ViacomCBS Inc,U_CBS
+450,478,Visa Inc,U_V
+451,479,Volkswagen Group of America Finance LLC,U_VW
+452,480,Vornado Realty Lp,U_VNO
+453,481,Vulcan Materials Company,U_VMC
+454,482,WELLTOWER INC,U_HCN
+455,483,Walgreens Boots Alliance Inc.,U_WBA
+456,484,Walmart Inc.,U_WMT
+457,485,Walt Disney,U_DIS
+458,486,Waste Management Inc.,U_WM
+459,487,Wec Energy Group Incorporation,U_WEC
+460,488,Weibo Corporation,U_WB
+461,489,WestRock Company,U_MWV
+462,490,Westinghouse Air Brake Technologies Corporation,U_WAB
+463,491,Westlake Chemical Corporation,U_WLK
+464,492,Weyerhaeuser Company,U_WY
+465,493,Whirlpool Corporation,U_WHR
+466,494,Williams Companies,U_WMB
+467,495,Xcel Energy Inc,U_XEL
+468,496,Xilinx Inc.,U_XLNX
+469,497,Xylem Inc.,U_XYL
+470,498,Yum! Brands,U_YUM
+471,499,Zimmer Biomet Holdings  Inc,U_ZBH
+472,500,Zoetis Inc.,U_ZTS
+473,501,eBay,U_EBAY
+474,502,nVent Electric Plc,U_NVT

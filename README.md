@@ -10,4 +10,4 @@ Portfolio Baseline: This is the portfolio construction algorithm that I have use
 
 New_training_set_all_sources_postNER.csv is the file that contains the labelled set of about 2000 articles, it has articles belonging to the 3 sources, and 10 categories. It is the labelled set that I use for testing purposes.
 
-Training_corpus_
+Corpus_training_set.csv contains the articles belonging to the corpus set. The corpus set is the set containing the defining articles for each category.

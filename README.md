@@ -1,6 +1,6 @@
 # FYP-Arnau-Bonet-2022
 
-This is the repo for the FYP of Arnau Bonet Farrés: Financial News Classification Model for NLP-based Portfolio Construction.
+This is the repo for the FYP of Arnau Bonet Farrés: Financial News Classification Model for NLP-based Portfolio Construction. It only contains the files of interest, there are obviously a lot more files available on demand.
 
 Model testing: This code contains the model constructed from scratch and all the tests that appear in the report for the accuracy of the classification model.
 
